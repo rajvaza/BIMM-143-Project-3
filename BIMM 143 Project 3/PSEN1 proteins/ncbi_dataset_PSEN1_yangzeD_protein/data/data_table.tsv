@@ -1,0 +1,5 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+103070847	PSEN1	presenilin 1	Lipotes vexillifer	Yangtze River dolphin	118797	NW_006787038.1:271414-343866	+	chr Un	PROTEIN_CODING	XM_007459700.1	transcript variant X1	2421	XM_007459700.1:282-1688	XP_007459762.1		468	presenilin-1
+103070847	PSEN1	presenilin 1	Lipotes vexillifer	Yangtze River dolphin	118797	NW_006787038.1:271414-343866	+	chr Un	PROTEIN_CODING	XM_007459703.1	transcript variant X4	2409	XM_007459703.1:282-1676	XP_007459765.1		464	presenilin-1
+103070847	PSEN1	presenilin 1	Lipotes vexillifer	Yangtze River dolphin	118797	NW_006787038.1:271414-343866	+	chr Un	PROTEIN_CODING	XM_007459702.1	transcript variant X3	1679	XM_007459702.1:273-1679	XP_007459764.1		468	presenilin-1
+103070847	PSEN1	presenilin 1	Lipotes vexillifer	Yangtze River dolphin	118797	NW_006787038.1:271414-343866	+	chr Un	PROTEIN_CODING	XM_007459701.1	transcript variant X2	1731	XM_007459701.1:209-1615	XP_007459763.1		468	presenilin-1

@@ -1,0 +1,3 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+113622942	PSEN1	presenilin 1	Lagenorhynchus obliquidens	Pacific white-sided dolphin	90247	NW_020837954.1:45740465-45819113	+	chr Un	PROTEIN_CODING	XM_027111700.1	transcript variant X1	5809	XM_027111700.1:268-1674	XP_026967501.1	isoform X1	468	presenilin-1
+113622942	PSEN1	presenilin 1	Lagenorhynchus obliquidens	Pacific white-sided dolphin	90247	NW_020837954.1:45740465-45819113	+	chr Un	PROTEIN_CODING	XM_027111701.1	transcript variant X2	5797	XM_027111701.1:268-1662	XP_026967502.1	isoform X2	464	presenilin-1

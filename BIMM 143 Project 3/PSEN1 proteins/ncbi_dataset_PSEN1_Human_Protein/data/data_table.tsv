@@ -1,0 +1,8 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	XM_005267866.2	transcript variant X3	2785	XM_005267866.2:280-1671	XP_005267923.1	isoform X2	463	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	XM_005267864.3	transcript variant X1	2788	XM_005267864.3:271-1674	XP_005267921.1	isoform X1	467	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	NM_000021.4	transcript variant 1	6018	NM_000021.4:213-1616	NP_000012.1	isoform I-467	467	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	NM_007318.3	transcript variant 2	6006	NM_007318.3:213-1604	NP_015557.2	isoform I-463	463	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	XM_011536972.2	transcript variant X2	3058	XM_011536972.2:541-1944	XP_011535274.1	isoform X1	467	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	XM_011536973.2	transcript variant X5	3046	XM_011536973.2:541-1932	XP_011535275.1	isoform X2	463	presenilin-1
+5663	PSEN1	presenilin 1	Homo sapiens	human	9606	NC_000014.9:73136436-73223691	+	chr 14	PROTEIN_CODING	XM_011536974.2	transcript variant X4	2682	XM_011536974.2:177-1568	XP_011535276.1	isoform X2	463	presenilin-1

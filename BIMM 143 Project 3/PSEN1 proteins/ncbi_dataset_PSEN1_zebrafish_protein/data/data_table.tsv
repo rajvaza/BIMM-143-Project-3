@@ -1,0 +1,4 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+30221	psen1	presenilin 1	Danio rerio	zebrafish	7955	NC_007128.7:51206219-51223817	-	chr 17	PROTEIN_CODING	XM_005169883.4	transcript variant X2	2452	XM_005169883.4:152-1519	XP_005169940.1	isoform X2	455	presenilin-1
+30221	psen1	presenilin 1	Danio rerio	zebrafish	7955	NC_007128.7:51206219-51223817	-	chr 17	PROTEIN_CODING	XM_005169882.4	transcript variant X1	2454	XM_005169882.4:151-1521	XP_005169939.1	isoform X1	456	presenilin-1
+30221	psen1	presenilin 1	Danio rerio	zebrafish	7955	NC_007128.7:51206219-51223817	-	chr 17	PROTEIN_CODING	NM_131024.1		2373	NM_131024.1:62-1432	NP_571099.1		456	presenilin-1

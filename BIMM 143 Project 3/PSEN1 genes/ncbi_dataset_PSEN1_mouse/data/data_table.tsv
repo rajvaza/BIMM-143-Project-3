@@ -1,0 +1,2 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+19164	Psen1	presenilin 1	Mus musculus	house mouse	10090	NC_000078.7:83734926-83781869	+	chr 12	PROTEIN_CODING	NM_001362271.1		2706	NM_001362271.1:263-1666	NP_001349200.1		467	presenilin-1 precursor

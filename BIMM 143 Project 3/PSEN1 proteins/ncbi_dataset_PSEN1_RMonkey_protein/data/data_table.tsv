@@ -1,0 +1,5 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+696274	PSEN1	presenilin 1	Macaca mulatta	Rhesus monkey	9544	NC_041760.1:135266009-135350251	+	chr 7	PROTEIN_CODING	XM_015144037.2	transcript variant X2	6058	XM_015144037.2:289-1680	XP_014999523.1	isoform X2	463	presenilin-1
+696274	PSEN1	presenilin 1	Macaca mulatta	Rhesus monkey	9544	NC_041760.1:135266009-135350251	+	chr 7	PROTEIN_CODING	XM_028850214.1	transcript variant X3	6084	XM_028850214.1:315-1706	XP_028706047.1	isoform X2	463	presenilin-1
+696274	PSEN1	presenilin 1	Macaca mulatta	Rhesus monkey	9544	NC_041760.1:135266009-135350251	+	chr 7	PROTEIN_CODING	XM_028850213.1	transcript variant X1	2824	XM_028850213.1:315-1718	XP_028706046.1	isoform X1	467	presenilin-1
+696274	PSEN1	presenilin 1	Macaca mulatta	Rhesus monkey	9544	NC_041760.1:135266009-135350251	+	chr 7	PROTEIN_CODING	NM_001266480.1		3980	NM_001266480.1:256-1659	NP_001253409.1		467	presenilin-1

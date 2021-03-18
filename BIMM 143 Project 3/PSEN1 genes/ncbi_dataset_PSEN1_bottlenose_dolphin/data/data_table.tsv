@@ -1,0 +1,3 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+101322169	PSEN1	presenilin 1	Tursiops truncatus	common bottlenose dolphin	9739	NC_047035.1:29287535-29365418	-	chr 2	PROTEIN_CODING	XM_019921714.2	transcript variant X2	5795	XM_019921714.2:268-1662	XP_019777273.1	isoform X2	464	presenilin-1
+101322169	PSEN1	presenilin 1	Tursiops truncatus	common bottlenose dolphin	9739	NC_047035.1:29287535-29365418	-	chr 2	PROTEIN_CODING	XM_019921707.2	transcript variant X1	5807	XM_019921707.2:268-1674	XP_019777266.1	isoform X1	468	presenilin-1
